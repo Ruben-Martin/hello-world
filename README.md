@@ -1,2 +1,2 @@
 # hello-world
-Primer repositorio
+En este primer archivo de texto plano estoy aprendiendo a usar branch
